@@ -18,4 +18,5 @@ We used GPT-4 version gpt-4-0613 and GPT-3.5-turbo version gpt-3.5-turbo-0125 th
 ### Plot
 * Figure 1: plotted via Excel Sheets
 
-#
+# License
+All models & code are licensed under MIT License
